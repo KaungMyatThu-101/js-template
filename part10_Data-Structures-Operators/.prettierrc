@@ -1,4 +1,13 @@
-{
-  "singleQuote": true,
-  "arrowParens": "avoid"
-}
+// {
+//   "singleQuote": true,
+//   "arrowParens": "avoid"
+// }
+
+
+// git
+
+git add . For all new file and folder (git add file_names.exten  it is for single file)
+git status  // to check the status of git files [optional]
+git commit -m "committed message" For asingle file(git commit -m "committed message" file_names.exten)
+git push -u origin master
+git pull origin master // Change in github, it take effect in local reprository. 'Synchronization'
